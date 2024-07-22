@@ -16,8 +16,8 @@ header > div{
     line-height: 1.5
 }
 #topphoto{
-    height: 200px;
-    width: 200px;
+    height: 15%;
+    width: 15%;
     margin: 1%;
     display: flex;
     border-radius: 20px;
@@ -60,14 +60,15 @@ a{
     color: black;
 }
 .photoin{
-    height: 325px;
+    height: 30%;
+    width: 30%;
 	float: right;
 	margin-left:20px;
     border-radius: 20px;
 }
 #pp{
     text-indent: 50px; /*ย่อหน้า*/
-	text-align: justify; /*ชิดขอบซ้ายขวา*/
+    text-align: justify; /*ชิดขอบซ้ายขวา*/
 }
 #hh22{
     font-size: 20pt;
