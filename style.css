@@ -29,6 +29,7 @@ header > div{
     font-size: 30pt;
     text-transform: uppercase;
     letter-spacing: 5px;
+    color: white;
 }
 #top{
     padding: 1em 10% 1em 10%;
